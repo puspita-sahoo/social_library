@@ -11,7 +11,7 @@
 
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/puspita-sahoo/social_library.git
 ```
 
 ### Create Environment

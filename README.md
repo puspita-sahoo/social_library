@@ -1,6 +1,7 @@
 # social_library
 - it's a online library where a user can upload their books and explore others.
-
+- Developed a social library where the user can read and download books and they can upload by sign in to the website.
+- Implemented the user authentication system.
 
   
 ## Run Locally

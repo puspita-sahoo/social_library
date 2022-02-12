@@ -22,7 +22,7 @@
 ### Activate Environment(env)
 
 ```bash
-  $ souce env/bin/activate
+  $ source env/bin/activate
 ```
 
 
